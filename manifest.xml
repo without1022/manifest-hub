@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="https://github.com/" />
+  <default remote="origin" revision="master" />
+  <project path="project1" name="without1022/BT_sink.git" />
+    <!--<project path="project2" name="username/project2.git" /> -->
+</manifest>
+
