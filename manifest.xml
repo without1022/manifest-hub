@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="origin" fetch="https://github.com/" />
-  <default remote="origin" revision="master" />
-  <project path="project1" name="without1022/BT_sink.git" />
+  <default remote="origin" revision="main" />
+  <project path="myblog" name="without1022/myblog.git" />
+  <project path="myblog/themes/amazing" name="without1022/hexo-theme-amazing.git" />
+  <project path="blog_out" name="without1022/without1022.github.io.git" />
     <!--<project path="project2" name="username/project2.git" /> -->
 </manifest>
 
